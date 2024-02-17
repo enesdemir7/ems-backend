@@ -4,4 +4,4 @@ Technologies Used:\
 -JPA/Hibernate\
 -MySQL\
 -IntelliJ IDEA\
--Postman\
+-Postman
